@@ -1,0 +1,28 @@
+/**
+ * LeaflySpecials CSS
+ *
+ * @package     LeaflySpecials\CSS
+ * @since       1.0.0
+ */
+
+
+/* Leafly Specials widget
+-------------------------------------------------------------- */
+
+.leafly-specials-plugin-meta {
+	border: 2px dashed #eee;
+	margin: 0 0 12px 0;
+	padding: 6px 12px;
+	position: relative;
+	width: 100%;
+}
+
+.leafly-specials-plugin-meta h3,
+.leafly-specials-plugin-meta p {
+	margin: 6px 0 !important;
+	padding: 0 !important;
+}
+
+.leafly-specials-plugin-meta-item.fineprint {
+	color: #ccc;
+}
