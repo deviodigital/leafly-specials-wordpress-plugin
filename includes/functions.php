@@ -6,10 +6,10 @@
  * @package     LeaflySpecials\Functions
  */
 
-
-// Exit if accessed directly
-if( ! defined( 'ABSPATH' ) ) exit;
-
+/* Exit if accessed directly */
+if ( ! defined( 'ABSPATH' ) ) {
+	exit;
+}
 
 /**
  * Retrieve a users data from the API
@@ -17,4 +17,3 @@ if( ! defined( 'ABSPATH' ) ) exit;
  * @since       1.0.0
  * @todo		Do a happy dance because this file isn't needed (yet)
  */
-
