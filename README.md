@@ -4,7 +4,13 @@
 
 Easily display your dispensaries specials on your WordPress powered website
 
-Currently waiting on approval for the official WordPress repository. A link will be updated here when it gets accepted.
+## PLEASE READ
+
+**Leafly is closing it's API, so as of 2.29.16, this plugin will no longer work.**
+
+I will be keeping an eye out if an API ever opens back up and I can update this plugin.
+
+As for the plugin itself, the originl README created for it is below.
 
 ### Adding your APP ID and KEY
 
