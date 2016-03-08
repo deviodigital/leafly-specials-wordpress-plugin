@@ -8,6 +8,8 @@ Easily display your dispensaries specials on your WordPress powered website
 
 **Leafly is closing it's API, so as of 2.29.16, this plugin will no longer work.**
 
+I'm working on a new plugin called "[Dispensary Coupons](https://github.com/deviodigital/dispensary-coupons)" that gives you the ability to add and display coupons directly from within WordPress.
+
 I will be keeping an eye out if an API ever opens back up and I can update this plugin.
 
 As for the plugin itself, the originl README created for it is below.
